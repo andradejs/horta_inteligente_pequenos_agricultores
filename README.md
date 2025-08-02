@@ -1,5 +1,3 @@
----
-
 # 🌱 Horta Inteligente com ESP32, Firebase e Telegram Bot
 
 Este projeto implementa um **sistema de irrigação automatizado** utilizando **ESP32**, sensores de solo e umidade, integração com o **Firebase** para armazenamento dos dados e um **bot do Telegram** para interação e controle remoto.
